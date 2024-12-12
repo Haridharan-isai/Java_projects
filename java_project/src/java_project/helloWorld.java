@@ -7,5 +7,4 @@ public class helloWorld {
 		System.out.println("new to the GIT & GITHUB");
 		System.out.println("one more to the git");
 	}
-
 }
