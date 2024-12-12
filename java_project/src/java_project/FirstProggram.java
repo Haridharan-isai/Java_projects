@@ -10,6 +10,7 @@ public class FirstProggram {
 	else {
 		System.out.println("odd number");
 	}
+	System.out.println("thank you for learnit");
 
 	}
 
